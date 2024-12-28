@@ -17,3 +17,7 @@ https://www.figma.com/file/ggA2hlBHJfI6CeuKclkqr9/Finkit-Test
 - все иконки подключаются через web-шрифты (например, через сервис Fontello)
 - именование изображений, классов и стилей и прочих компонентов идет через snake_case
 - простой и понятный код
+
+## Demo
+
+Demo available at: https://alyldas.github.io/finkit/
